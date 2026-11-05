@@ -44,6 +44,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Social Blade](https://socialblade.com/) — Analytics and statistics for YouTube channels.
 - [Noxinfluencer](https://www.noxinfluencer.com/) — Influencer marketing and analytics platform for YouTube.
 - [Keyword Tool for YouTube](https://keywordtool.io/youtube) — Discover keywords and tags for YouTube videos.
+- [Redexa Social](https://redexa.getcertsprint.com/) — Read-only YouTube analytics for Windows with a multi-channel overview, rival comparison and CSV export.
 
 ## Video Editing Software
 
